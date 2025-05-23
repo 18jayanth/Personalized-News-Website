@@ -1,2 +1,2 @@
-# Personalized-News-Website
-This Repository contains Personalized News Website Code
+# News-Website
+It is a personalised News Website using Flask Frame Work
